@@ -27,7 +27,7 @@ A simple, open-source music player application for PC, designed to provide a cle
 
 ### Binary Release
 
-1. Download the latest release from the () page.
+1. Download the latest release from the (https://github.com/ha466/musicforpc.git) page.
 2. Extract the zip file to a directory of your choice.
 3. Run the executable file (music-app.exe on Windows or music-app on macOS and Linux).
 
